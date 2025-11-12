@@ -1,4 +1,11 @@
+This section contains for loops and while loops. Much like if statements, loops require the 'end' keyword, parentheses around expressions and no indentation.
 ### For loops
+Unlike Python, for loops in my language are inclusive at both ends.
+```text
+count [variable] from [start] to [end]
+	>> CODE
+end
+```
 
 ```text 
 count i from 1 to 5 >> INCLUSIVE
@@ -13,7 +20,7 @@ end
 ```
 ### While loops
 ```text 
-number = 10
+var number = 10
 
 while(number > 2)
 	display(number)
