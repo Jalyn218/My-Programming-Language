@@ -1,3 +1,4 @@
+Again, functions work similar to how they do in python except they are defined with the 'function' keyword instead of 'def' and require an 'end' instead of indentation.
 ### Defining functions
 ```text 
 var result
